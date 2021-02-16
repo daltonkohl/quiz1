@@ -1,1 +1,2 @@
 Hello
+I can change it from git too!
